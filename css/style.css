@@ -20,9 +20,10 @@ img{
 }
 
 .gallery_about_me div img{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     margin-bottom: 10px;
+    display: inline-block
 }
 
 img:hover{
@@ -67,7 +68,7 @@ a{
 }
 
 h1{
-    font-size: 60px;
+    font-size: 50px;
     font-style: italic;
     border: none;
     color:#7C4B4B;
